@@ -17,7 +17,7 @@
 ```bash
 git clone https://github.com/HasanITJ/Desktop_ToDo.git
 cd Desktop_ToDo
-python main.py
+python app.py
 ```
 
 ## 📸 Скриншот интерфейса
